@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/emmanuel-olagoke-62a68119b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="YOUR_TWITTER_PROFILE_URL_OR_OTHER_RELEVANT_SOCIAL_LINK" target="_blank">
     </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+  <a href="mailto:emma.goke05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   </div>
 
 ---
 
-👋 Hi there, I'm **[Your Name]**!
+👋 Hi there, I'm **Emmanuel Olagoke**!
 
 <p align="left">
   I'm an Intermediate Backend Engineer with a strong foundation in Django and Node.js, and a proud learner in the ALX Pro Dev Backend program. My core passion lies in <strong>solving real-world problems</strong> by building <strong>secure, reliable, scalable, and fast systems</strong>. I thrive on the challenge of creating impactful solutions that make a difference.
