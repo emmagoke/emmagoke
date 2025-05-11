@@ -60,13 +60,14 @@ My journey into software engineering was sparked by a desire to tackle tangible 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/RESTful%20APIs-0277BD?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs"/>
   </p>
 
 **Key Areas of Expertise:**
+
 <ul>
   <li>Backend Development (Python/Django, Node.js/Express)</li>
   <li>API Design & Development (RESTful APIs)</li>
@@ -85,37 +86,42 @@ My journey into software engineering was sparked by a desire to tackle tangible 
 Here are some of the key areas I've had the opportunity to work on:
 
 ### 1. FinTech Application (Web & Mobile)
-* **Description:** Contributed to the development of a comprehensive FinTech solution, focusing on backend services for [mention 1-2 specific key features you worked on, e.g., payment processing, user authentication, transaction management].
-* **Impact:** [Quantify your impact if possible, e.g., "Improved API response time by X%", "Ensured secure handling of financial data for Y users"].
-* **Technologies Used:** [e.g., Django, DRF, PostgreSQL, Celery, Specific payment gateway APIs]
-* **Pinned Repository (Optional):** `[Link to a relevant public repo if available]`
+
+- **Description:** Contributed to the development of a comprehensive FinTech solution, focusing on backend services for [mention 1-2 specific key features you worked on, e.g., payment processing, user authentication, transaction management].
+<!-- - **Impact:** [Quantify your impact if possible, e.g., "Improved API response time by X%", "Ensured secure handling of financial data for Y users"]. -->
+- **Technologies Used:** Django, DRF, PostgreSQL, Celery, Paystack
+<!-- - **Pinned Repository (Optional):** `[Link to a relevant public repo if available]` -->
 
 ### 2. Robust API Development (Web & Mobile)
-* **Description:** Designed and implemented secure and efficient APIs to power various web and mobile applications, ensuring seamless data exchange and integration.
-* **Focus:** [e.g., Scalability, low latency, adherence to REST principles, versioning].
-* **Technologies Used:** [e.g., Node.js, Express, JWT, Django REST Framework]
-* **Pinned Repository (Optional):** `[Link to a relevant public repo if available]`
+
+- **Description:** Designed and implemented secure and efficient APIs to power various web and mobile applications, ensuring seamless data exchange and integration.
+- **Focus:** [e.g., Scalability, low latency, adherence to REST principles, versioning].
+- **Technologies Used:** JWT, Django REST Framework, Django, Postgres
+<!-- - **Pinned Repository (Optional):** `[Link to a relevant public repo if available]` -->
 
 ### 3. High-Traffic USSD Platform
-* **Description:** Developed and maintained a USSD platform, providing critical services to a large user base. Focused on reliability and efficiency to handle high concurrency.
-* **Impact:** Successfully served **over 100,000 users**, demonstrating the platform's stability and scalability.
-* **Key Challenges:** [e.g., Optimizing for low-bandwidth environments, ensuring session management, integrating with telecom infrastructure].
-* **Technologies Used:** [e.g., Python, specific USSD gateway technologies, caching mechanisms like Redis]
+
+- **Description:** Developed and maintained a USSD platform, providing critical services to a large user base. Focused on reliability and efficiency to handle high concurrency.
+- **Impact:** Successfully served **over 100,000 users**, demonstrating the platform's stability and scalability.
+- **Key Challenges:** [Optimizing for low-bandwidth environments, ensuring session management
+- **Technologies Used:** Python, Django, USSD gateway technologies (Africa's Talking), Task queue (Celery with Redis)
 
 ### 4. E-commerce System (Current Project)
-* **Description:** Currently building a multifaceted e-commerce system encompassing order management, inventory control, and store/store manager functionalities.
-* **Focus:** Architecting a scalable and maintainable system to support business growth and complex workflows.
-* **Key Features being developed:** [e.g., Real-time inventory updates, secure checkout process, role-based access control for store managers].
-* **Technologies Used:** [e.g., Django, PostgreSQL, Docker, potentially microservices if applicable]
-* **Pinned Repository (Optional):** `[Link to your current project repo if public, or a demo version]`
+
+- **Description:** Currently building a multifaceted e-commerce system encompassing order management, inventory control, and store/store manager functionalities.
+- **Focus:** Architecting a scalable and maintainable system to support business growth and complex workflows.
+- **Key Features being developed:** [e.g., Real-time inventory updates, secure checkout process, role-based access control for store managers].
+- **Technologies Used:** [e.g., Django, PostgreSQL, Docker, potentially microservices if applicable]
+<!-- - **Pinned Repository (Optional):** `[Link to your current project repo if public, or a demo version]` -->
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
 I'm always eager to expand my skillset and stay updated with the latest advancements in backend technologies. Currently, I'm focusing on:
-* Deepening my understanding of [mention specific ALX concepts or advanced topics like Microservice Architectures, Advanced Database Optimization, Cloud-native technologies like Kubernetes].
-* Exploring [mention any new tools, languages, or frameworks you are curious about, e.g., Go, GraphQL, Serverless].
+
+- Deepening my understanding of advanced topics like Microservice Architectures, Advanced Database Optimization, Cloud-native technologies like Kubernetes, Dockers.
+- Exploring Nestjs, Microservices Architecture Go, GraphQL, Serverless etc.
 
 ---
 
@@ -136,8 +142,8 @@ I'm always eager to expand my skillset and stay updated with the latest advancem
 I'm always open to discussing new projects, collaborative opportunities, or just chatting about technology! Feel free to reach out.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">Email</a>
+  <a href="https://www.linkedin.com/in/emmanuel-olagoke-62a68119b/" target="_blank">LinkedIn</a> |
+  <a href="mailto:emma.goke05@gmail.com" target="_blank">Email</a>
   </p>
 
 ---
