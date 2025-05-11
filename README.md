@@ -128,7 +128,7 @@ I'm always eager to expand my skillset and stay updated with the latest advancem
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=emmagoke&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emmagoke&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmagoke&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 <p align="center">
